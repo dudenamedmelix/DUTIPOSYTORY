@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT_DZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3746D83-26DB-480A-9E11-D4AB345CA047}|PR_2\\task_3\\task_3.csproj|d:\\git_dz\\pr_2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3746D83-26DB-480A-9E11-D4AB345CA047}|PR_2\\task_3\\task_3.csproj|solutionrelative:pr_2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9174A7-4A91-4306-B30B-93B4D663BF88}|PR_2\\task_2\\task_2.csproj|d:\\git_dz\\pr_2\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9174A7-4A91-4306-B30B-93B4D663BF88}|PR_2\\task_2\\task_2.csproj|solutionrelative:pr_2\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6317532-4384-4A3D-BB18-55FAE33267EC}|PR_2\\task_1\\task_1.csproj|d:\\git_dz\\pr_2\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6317532-4384-4A3D-BB18-55FAE33267EC}|PR_2\\task_1\\task_1.csproj|solutionrelative:pr_2\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT_DZ\\PR_2\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "PR_2\\task_3\\Program.cs",
+              "ToolTip": "D:\\GIT_DZ\\PR_2\\task_3\\Program.cs",
+              "RelativeToolTip": "PR_2\\task_3\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:17:17.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT_DZ\\PR_2\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "PR_2\\task_2\\Program.cs",
+              "ToolTip": "D:\\GIT_DZ\\PR_2\\task_2\\Program.cs",
+              "RelativeToolTip": "PR_2\\task_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:16:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT_DZ\\PR_2\\task_1\\Program.cs",
+              "RelativeDocumentMoniker": "PR_2\\task_1\\Program.cs",
+              "ToolTip": "D:\\GIT_DZ\\PR_2\\task_1\\Program.cs",
+              "RelativeToolTip": "PR_2\\task_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:09:47.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
